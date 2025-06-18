@@ -28,9 +28,11 @@ The following **additional** features are implemented:
 
 <div>
     <a href="https://www.loom.com/share/c2aa88fadadf4fc7a90022f4beaf07c2">
-      <p>Videos | Library | Loom - 18 June 2025 - Watch Video</p>
     </a>
-  </div>) .
+    <a href="https://www.loom.com/share/c2aa88fadadf4fc7a90022f4beaf07c2">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c2aa88fadadf4fc7a90022f4beaf07c2-19f3da222daeab2b-full-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
